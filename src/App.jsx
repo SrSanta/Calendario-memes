@@ -4,7 +4,7 @@ import { Lock, Gift, X, Snowflake, Calendar } from 'lucide-react';
 // --- DATOS CON IMÁGENES REALES (CORREGIDAS V3) ---
 const MEME_DATA = [
   { day: 1, title: "GTA VI", img: "https://i.blogs.es/1ca280/trailer-1-illustration-16x9-/1200_900.jpg?auto=format&fit=crop&w=800&q=80", text: "Yo esperando a que GTA VI termine de instalarse (van 3 dias)" },
-  { day: 2, title: "Oasis Reunion", img: "https://images.unsplash.com/photo-1501612780327-45045538702b?auto=format&fit=crop&w=800&q=80", text: "Yo vendiendo mi riñón para ver a Oasis en Wembley" },
+  { day: 2, title: "Por el megabox", img: "https://www.reasonwhy.es/media/cache/destacada/kfc-megabox-cinco.jpg?auto=format&fit=crop&w=800&q=80", text: "No te puedes aguantar la rima" },
   { day: 3, title: "Neuralink", img: "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2024/01/30/neuralink-musk-kjvC-U52510742812PVn-1200x840@abc.jpg?auto=format&fit=crop&w=800&q=80", text: "Cuando se te olvida pagar el Premium de tu chip cerebral" },
   { day: 4, title: "iPhone 17 Air", img: "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=80", text: "iPhone 17: Ahora sin pantalla, solo vibra y cuesta 2000€" },
   { day: 5, title: "Robot Camarero", img: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80", text: "El robot camarero pidiendome propina del 30%" },
